@@ -38,3 +38,6 @@ export default App;
 ## Customization
 
 If you want to pass an image or icon with the url, don't specify the uri, use it as in the example above
+
+## An overview
+![Texte alternatif](https://github.com/Mohamed-78/react-native-item-list/blob/main/contenu.jpg)
