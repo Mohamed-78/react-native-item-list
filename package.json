@@ -1,6 +1,6 @@
 {
     "name": "react-native-item-list",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "description": "The React Native ListItem package is a versatile, easy-to-use solution for creating interactive item lists in your React Native applications. Designed to simplify the process of creating and displaying item lists, this package offers maximum flexibility while remaining intuitive.",
     "main": "index.jsx",
     "scripts": {
@@ -12,8 +12,16 @@
     },
     "keywords": [
       "react-native",
-      "react-native-item-list"
+      "react-native-item-list",
+      "react-native-list-item",
+      "list",
+      "item",
+      "component",
+      "package react-native-list-item",
+      "package react-native-item-list",
+      "package react-native"
     ],
+    
     "author": "Irié Mohamed",
     "license": "MIT",
     "peerDependencies": {
