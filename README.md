@@ -1,7 +1,8 @@
-# react-native-card-element
+# react-native-item-list
 
-![npm version](https://img.shields.io/npm/v/react-native-card-media.svg)
-![license](https://img.shields.io/npm/l/react-native-card-media.svg)
+![npm version](https://img.shields.io/npm/v/react-native-item-list.svg)
+![license](https://img.shields.io/npm/l/react-native-item-list.svg)
+[![npm](https://img.shields.io/npm/dt/react-native-item-list.svg)](https://www.npmjs.com/package/react-native-item-list)
 
 A simple React Native component for displaying list-item in your projects.
 
